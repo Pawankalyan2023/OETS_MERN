@@ -64,7 +64,7 @@ function Signup() {
                   </div>
                 </div>
                 <div className="button">
-                  <input type="submit" value="Register" onClick={() => { window.location.href = 'afterregister.html'; }} />
+                  <input type="submit" value="Register" onClick={() => { window.location.href = '//Login page oda link inga varanum bro '; }} />
                 </div>
               </form>
             </div>
