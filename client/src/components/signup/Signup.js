@@ -1,7 +1,7 @@
 // Signup.js
 
 import React from 'react';
-import './Signup1.css'; // Make sure to adjust the path based on your project structure
+import './Signup1.css'; 
 
 function Signup() {
   return (
